@@ -146,5 +146,14 @@ p {
     text-align: center;
 }
 .icon-1{
-    padding: 3% 3%;
+    padding: 3% 4%;
+    color:#e2257d;
+}
+.icon-2{
+    padding: 3% 4%;
+    color: black;
+}
+.icon-3{
+    padding: 3% 4%;
+    color: blue;
 }
